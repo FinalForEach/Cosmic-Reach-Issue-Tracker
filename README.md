@@ -2,4 +2,5 @@
 Public bug and issue tracker for the game Cosmic Reach
 
 Some parts of Cosmic Reach are open source, find them here:
+
 https://github.com/FinalForEach/Cosmic-Reach-Save-Library
