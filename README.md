@@ -8,3 +8,5 @@ https://github.com/FinalForEach/Cosmic-Reach-Save-Library
 https://github.com/FinalForEach/Cosmic-Reach-Localization
 
 https://github.com/FinalForEach/Cosmic-Reach-Utils
+
+https://github.com/FinalForEach/CosmicReachModelEditor/
